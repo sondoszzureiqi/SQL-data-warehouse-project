@@ -6,11 +6,12 @@ A comprehensive **Data Warehousing and Analytics** solution built on **SQL Serve
 - **Medallion Architecture**  
   - Bronze: Raw data ingestion  
   - Silver: Cleaned and transformed data  
-  - Gold: Analytics-ready data for reporting  
-![Architecture](docs/Architecture.jpg)
-
+  - Gold: Analytics-ready data for reporting
+  - 
 - **ETL Pipelines**  
   - Extract, Transform, Load processes using SQL Server  
 
 - **Analytics & Insights**  
-  - Aggregated and summarized data for dashboards and reporting  
+  - Aggregated and summarized data for dashboards and reporting
+ 
+![Architecture](docs/Architecture.jpg)
